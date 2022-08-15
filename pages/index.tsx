@@ -21,7 +21,7 @@ const Home: NextPage = () => {
                             <img src="/logo-full.png" style={{ width: 200 }} />
                         </div>
                         <div>
-                            <h1 className="text-7xl text-black">
+                            <h1 className="text-5xl md:text-7xl text-black text-center">
                                 Cooming Soon
                             </h1>
                         </div>
